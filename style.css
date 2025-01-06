@@ -1,0 +1,212 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+/* /* header-section  */
+.box1{
+	margin-top: 8rem;
+}
+h4
+{
+	font-weight: bold;
+	font-family:Serif ,Garamond;
+	font-size: 40px;
+}
+@media (max-width:767px) {
+	.row
+	{
+		margin-bottom:2rem ;
+	}
+	.head-img{
+		width:auto;
+		height:150px;
+	}
+	h4
+{
+	font-size: 24px;
+}
+	#para{
+	font-size:11px;
+}
+}
+/* header-section-ends */
+/* service-section */
+	.service
+	{
+		margin: 3rem;
+	}
+	h5{
+		font-size: 20px;
+		text-align: center;
+	}
+	h3
+	{
+		font-size: 22px;
+		text-align: center;
+		font-family:Serif ,Garamond;
+		font-weight: bold;
+	}
+	.card-img-top
+	{
+		width: 290px;
+		height: 220px;
+		padding-left: 6rem;
+	}
+	.card-title
+	{
+		font-weight: bold;
+		font-family:Serif ,Garamond;
+
+	}
+
+	@media (max-width:767px) {
+		.card-img-top
+	{
+		width: 290px;
+		height: 220px;
+		padding-left: 3rem;
+	}
+		h5{
+			font-size: 17px;
+			text-align: center;
+		}
+		h3
+		{
+			font-size: 20px;
+			text-align: center;
+			font-family:Serif ,Garamond;
+		}
+
+	}
+/* service-section-ends*/
+/* menu-section */
+.card-box{
+	margin-bottom: 20px;
+
+}
+.card-title{
+	color:red;
+	font-family:Serif ,Garamond;
+	font-size:25px;
+}
+.card-text
+{
+	font-family:Serif ,Garamond;
+	font-size:17.5px;
+
+}
+.checked
+{
+	color:gold
+}
+.fa{
+	padding-top: 20px;
+	font-size: 15px;
+	font-weight: 700;
+}
+/* menu-section-ends */
+/* menu-2-starts */
+@media (max-width:767px) {
+	.burger{
+		width: 258.4px;
+		height: 258.4px;
+		margin-left:5px;
+	}
+}
+
+#head5
+{
+	font-family:Serif ,Garamond;
+	font-size: 25px;
+	margin-bottom: 3rem;
+}
+ /* menu-2 ends */
+ /* order-section */
+ .contact-img
+ {
+	width: 350px;
+	height: 350px;
+ }
+ @media (max-width:767px) {
+	.contact-img{
+		width: 250px;
+		height: 220px;
+		margin-left: 2rem;
+		margin-bottom: 3rem;
+	}
+
+ }
+ /* order-section-ends */
+ /* <!-- reviews-section */
+ 	.cheaf-img{
+		width: 350px;
+		height: 350px;
+		border: 2px solid red;
+		border-radius: 5px;
+	}
+	@media (max-width:767px) {
+		.cheaf-img{
+		width: 200px;
+		height: auto;
+		border: 2px solid red;
+		border-radius: 5px;
+	}
+	.boxx{
+		justify-items:legacy;
+		display: grid;
+		justify-content: center;
+	}
+}
+	h6{
+		color: red;
+		
+	}
+	h2{
+		font-family:Serif ,Garamond;
+		font-size: 60px;
+	}
+
+ /* <!-- reviews-section  */
+ /* contact-us */
+ .connect{
+	background-color: #FA3A30;
+	border-radius: 5px;
+	color: aliceblue;
+ }
+ #head6{
+	font-family:Serif ,Garamond;
+	font-size: 30px;
+	margin-bottom: 1rem;
+
+ }
+ @media (max-width:767px) {
+	.connect{
+		background-color: #FA3A30;
+		border-radius: 5px;
+		color: aliceblue;
+		margin: 1rem;
+	 }
+
+ }
+ /* contact-us */
+ /* footer-section */
+ 	.footer-img{
+		width: 200px;
+		height: auto;
+		margin-left: 4rem;
+	}
+	.icon{
+		padding-left:4rem;
+	}
+	#footer-pera
+	{
+		font-size: 18px;
+		font-family:Serif ,Garamond;
+	}
+	.gap-class
+	{
+		margin-left: 9px;
+		font-size: 22px;
+	}
+ /* footer-ends */
